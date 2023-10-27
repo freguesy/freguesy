@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Raphael Cavalcanti 
 <div style="display: inline_block">
 <img src="https://github-readme-stats.vercel.app/api?username=freguesy&show_icons=true&theme=midnight-purple&line_height=25count" height="180em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freguesy&layout=compact&theme=midnight-purple" height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freguesy&theme=midnight-purple" height="180em">
 </div>
 
 ## Tecnologias que eu uso no meu dia
